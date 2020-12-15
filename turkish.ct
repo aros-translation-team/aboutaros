@@ -1,0 +1,149 @@
+## version $VER: About.catalog 1.0 (15.12.2020)
+## language türkçe
+## codeset 0
+;
+;
+MSG_TITLE
+Aros Hakkında
+; About AROS
+;
+MSG_PERSONAL_BUILD
+Kişisel %s Yapı
+; Personal %s Build
+;
+MSG_NIGHTLY_BUILD
+Gecelik %s Yapı
+; Nightly %s Build
+;
+MSG_SNAPSHOT
+Anlık görüntü
+; Snapshot
+;
+MSG_MILESTONE
+Kilometre taşı
+; Milestone
+;
+MSG_RELEASE
+Yayın
+; Release
+;
+MSG_COPYRIGHT
+Telif hakkı \xa9 1995-2020, Aros Geliştirme Takımı. Tüm hakları saklıdır.
+; Copyright \xa9 1995-2020, The AROS Development Team. All rights reserved.
+;
+MSG_LICENSE_1
+Şartları altında yayınlandı
+; Released under the terms of the
+;
+MSG_LICENSE_2
+AROS Genel Lisansı
+; AROS Public License
+;
+MSG_LICENSE_3
+, sürüm 1.1.
+; , version 1.1.
+;
+MSG_MORE_INFORMATION
+Daha fazla bilgi için lütfen http://www.aros.org adresini ziyaret edin.
+; Please visit http://www.aros.org for more information.
+;
+MSG_PAGE_AUTHORS
+Yazarlar
+; Authors
+;
+MSG_PAGE_SPONSORS
+Sponsorlar
+; Sponsors
+;
+MSG_PAGE_ACKNOWLEDGEMENTS
+Teşekkürler
+; Acknowledgements
+;
+MSG_SECTION_COORDINATION
+Koordinasyon
+; Coordination
+;
+MSG_SECTION_EVANGELISM
+Evanjelizm
+; Evangelism
+;
+MSG_SECTION_HIDD
+HIDD alt sistemi
+; HIDD subsystem
+;
+MSG_SECTION_INTUITION
+Intuition
+; Intuition
+;
+MSG_SECTION_GRAPHICS
+Grafik
+; Graphics
+;
+MSG_SECTION_SHELL_COMMANDS
+Terminal Komutları
+; Shell Commands
+;
+MSG_SECTION_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_SECTION_TOOLS
+Araçlar
+; Tools
+;
+MSG_SECTION_PREFERENCES
+Terçihler
+; Preferences
+;
+MSG_SECTION_BGUI
+BGUI
+; BGUI
+;
+MSG_SECTION_ZUNE
+Zune
+; Zune
+;
+MSG_SECTION_KERNEL
+Kernel
+; Kernel
+;
+MSG_SECTION_DOS
+DOS
+; DOS
+;
+MSG_SECTION_NETWORK
+Ağ Bileşenleri
+; Networking Components
+;
+MSG_SECTION_LIBC_POSIX
+C bağlantı kitaplığı ve POSIX katmanı
+; C link library and POSIX layer
+;
+MSG_SECTION_DOCUMENTATION
+Belgelendirme
+; Documentation
+;
+MSG_SECTION_TRANSLATION
+Çeviri
+; Translation
+;
+MSG_SECTION_ARTISTRY
+Sanat
+; Artistry
+;
+MSG_SECTION_WEBSITE
+İnternet sitesi
+; Website
+;
+MSG_SECTION_DATATYPES
+Veri türleri
+; Datatypes
+;
+MSG_SECTION_TESTING
+Testler
+; Testing
+;
+MSG_BUILD_CPU
+AROS'un bu sürümü %s işlemcileri için oluşturulmuştur.
+; This version of AROS has been built for %s processors.
+;
