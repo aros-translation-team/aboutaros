@@ -1,42 +1,42 @@
 ## version $VER: About.catalog 2.0 (15.12.2020)
 ## language türkçe
-## codeset 0
+## codeset 12
 ;
 ;
 MSG_TITLE
-Aros Hakk¹nda
+Aros Hakkýnda
 ; About AROS
 ;
 MSG_PERSONAL_BUILD
-Kiºisel %s Yap¹
+Kiþisel %s Yapý
 ; Personal %s Build
 ;
 MSG_NIGHTLY_BUILD
-Gecelik %s Yap¹
+Gecelik %s Yapý
 ; Nightly %s Build
 ;
 MSG_SNAPSHOT
-Anl¹k görüntü
+Anlýk görüntü
 ; Snapshot
 ;
 MSG_MILESTONE
-Kilometre taº¹
+Kilometre taþý
 ; Milestone
 ;
 MSG_RELEASE
-Yay¹n
+Yayýn
 ; Release
 ;
 MSG_COPYRIGHT
-Telif hakk¹ \xa9 1995-2020, Aros Geliºtirme Tak¹m¹. Tüm haklar¹ sakl¹d¹r.
+Telif hakký \xa9 1995-2020, Aros Geliºtirme Takýmý. Tüm haklarý saklýdýr.
 ; Copyright \xa9 1995-2020, The AROS Development Team. All rights reserved.
 ;
 MSG_LICENSE_1
-ªartlar¹ alt¹nda yay¹nland¹
+Þartlarý altýnda yayýnlandý
 ; Released under the terms of the
 ;
 MSG_LICENSE_2
-AROS Genel Lisans¹
+AROS Genel Lisansý
 ; AROS Public License
 ;
 MSG_LICENSE_3
@@ -56,7 +56,7 @@ Sponsorlar
 ; Sponsors
 ;
 MSG_PAGE_ACKNOWLEDGEMENTS
-Teºekkürler
+Teþekkürler
 ; Acknowledgements
 ;
 MSG_SECTION_COORDINATION
@@ -80,7 +80,7 @@ Grafik
 ; Graphics
 ;
 MSG_SECTION_SHELL_COMMANDS
-Terminal Komutlar¹
+Terminal Komutlarý
 ; Shell Commands
 ;
 MSG_SECTION_WORKBENCH
@@ -112,11 +112,11 @@ DOS
 ; DOS
 ;
 MSG_SECTION_NETWORK
-A» Bileºenleri
+Að Bileþenleri
 ; Networking Components
 ;
 MSG_SECTION_LIBC_POSIX
-C ba»lant¹ kitapl¹»¹ ve POSIX katman¹
+C ba»lantý kitaplýðý ve POSIX katmaný
 ; C link library and POSIX layer
 ;
 MSG_SECTION_DOCUMENTATION
@@ -132,7 +132,7 @@ Sanat
 ; Artistry
 ;
 MSG_SECTION_WEBSITE
-©nternet sitesi
+Ýnternet sitesi
 ; Website
 ;
 MSG_SECTION_DATATYPES
@@ -144,6 +144,6 @@ Testler
 ; Testing
 ;
 MSG_BUILD_CPU
-AROS'un bu sürümü %s iºlemcileri için oluºturulmuºtur.
+AROS'un bu sürümü %s iþlemcileri için oluþturulmuþtur.
 ; This version of AROS has been built for %s processors.
 ;
