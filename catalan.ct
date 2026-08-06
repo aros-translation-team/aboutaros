@@ -1,0 +1,148 @@
+## version $VER: About.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+Sobre AROS
+; About AROS
+;
+MSG_PERSONAL_BUILD
+Compilació personal %s
+; Personal %s Build
+;
+MSG_NIGHTLY_BUILD
+Compilació nocturna %s
+; Nightly %s Build
+;
+MSG_SNAPSHOT
+Instantània
+; Snapshot
+;
+MSG_MILESTONE
+Fita
+; Milestone
+;
+MSG_RELEASE
+Llançament
+; Release
+;
+MSG_COPYRIGHT
+Copyright \xa9 1995-2026, The AROS Development Team. Tots els drets reservats.
+; Copyright \xa9 1995-2026, The AROS Development Team. All rights reserved.
+;
+MSG_LICENSE_1
+Publicat sota els termes de la
+; Released under the terms of the
+;
+MSG_LICENSE_2
+Llicència Pública d'AROS
+; AROS Public License
+;
+MSG_LICENSE_3
+, versió 1.1.
+; , version 1.1.
+;
+MSG_MORE_INFORMATION
+Visiteu http://www.aros.org per a més informació.
+; Please visit http://www.aros.org for more information.
+;
+MSG_PAGE_AUTHORS
+Autors
+; Authors
+;
+MSG_PAGE_SPONSORS
+Patrocinadors
+; Sponsors
+;
+MSG_PAGE_ACKNOWLEDGEMENTS
+Agraïments
+; Acknowledgements
+;
+MSG_SECTION_COORDINATION
+Coordinació
+; Coordination
+;
+MSG_SECTION_EVANGELISM
+Evangelisme
+; Evangelism
+;
+MSG_SECTION_HIDD
+Subsistema HIDD
+; HIDD subsystem
+;
+MSG_SECTION_INTUITION
+Intuition
+; Intuition
+;
+MSG_SECTION_GRAPHICS
+Gràfics
+; Graphics
+;
+MSG_SECTION_SHELL_COMMANDS
+Ordres del Shell
+; Shell Commands
+;
+MSG_SECTION_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_SECTION_TOOLS
+Eines
+; Tools
+;
+MSG_SECTION_PREFERENCES
+Preferències
+; Preferences
+;
+MSG_SECTION_BGUI
+BGUI
+; BGUI
+;
+MSG_SECTION_ZUNE
+Zune
+; Zune
+;
+MSG_SECTION_KERNEL
+Nucli
+; Kernel
+;
+MSG_SECTION_DOS
+DOS
+; DOS
+;
+MSG_SECTION_NETWORK
+Components de xarxa
+; Networking Components
+;
+MSG_SECTION_LIBC_POSIX
+Biblioteca d'enllaç C i capa POSIX
+; C link library and POSIX layer
+;
+MSG_SECTION_DOCUMENTATION
+Documentació
+; Documentation
+;
+MSG_SECTION_TRANSLATION
+Traducció
+; Translation
+;
+MSG_SECTION_ARTISTRY
+Art
+; Artistry
+;
+MSG_SECTION_WEBSITE
+Lloc web
+; Website
+;
+MSG_SECTION_DATATYPES
+Datatypes
+; Datatypes
+;
+MSG_SECTION_TESTING
+Proves
+; Testing
+;
+MSG_BUILD_CPU
+Aquesta versió d'AROS s'ha compilat per a processadors %s.
+; This version of AROS has been built for %s processors.
+;

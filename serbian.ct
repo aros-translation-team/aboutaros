@@ -1,0 +1,148 @@
+## version $VER: About.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_TITLE
+O AROS-u
+; About AROS
+;
+MSG_PERSONAL_BUILD
+LiŸno izdanje %s
+; Personal %s Build
+;
+MSG_NIGHTLY_BUILD
+No†no izdanje %s
+; Nightly %s Build
+;
+MSG_SNAPSHOT
+Snapshot
+; Snapshot
+;
+MSG_MILESTONE
+Prekretnica
+; Milestone
+;
+MSG_RELEASE
+Izdanje
+; Release
+;
+MSG_COPYRIGHT
+Copyright \xa9 1995-2026, The AROS Development Team. Sva prava zadr§ana.
+; Copyright \xa9 1995-2026, The AROS Development Team. All rights reserved.
+;
+MSG_LICENSE_1
+Objavljeno pod uslovima
+; Released under the terms of the
+;
+MSG_LICENSE_2
+AROS Public License
+; AROS Public License
+;
+MSG_LICENSE_3
+, verzija 1.1.
+; , version 1.1.
+;
+MSG_MORE_INFORMATION
+Posetite http://www.aros.org za viçe informacija.
+; Please visit http://www.aros.org for more information.
+;
+MSG_PAGE_AUTHORS
+Autori
+; Authors
+;
+MSG_PAGE_SPONSORS
+Sponzori
+; Sponsors
+;
+MSG_PAGE_ACKNOWLEDGEMENTS
+Zahvalnice
+; Acknowledgements
+;
+MSG_SECTION_COORDINATION
+Koordinacija
+; Coordination
+;
+MSG_SECTION_EVANGELISM
+Promocija
+; Evangelism
+;
+MSG_SECTION_HIDD
+HIDD podsistem
+; HIDD subsystem
+;
+MSG_SECTION_INTUITION
+Intuition
+; Intuition
+;
+MSG_SECTION_GRAPHICS
+Grafika
+; Graphics
+;
+MSG_SECTION_SHELL_COMMANDS
+Shell komande
+; Shell Commands
+;
+MSG_SECTION_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_SECTION_TOOLS
+Alatke
+; Tools
+;
+MSG_SECTION_PREFERENCES
+Podeçavanja
+; Preferences
+;
+MSG_SECTION_BGUI
+BGUI
+; BGUI
+;
+MSG_SECTION_ZUNE
+Zune
+; Zune
+;
+MSG_SECTION_KERNEL
+Kernel
+; Kernel
+;
+MSG_SECTION_DOS
+DOS
+; DOS
+;
+MSG_SECTION_NETWORK
+Mre§ne komponente
+; Networking Components
+;
+MSG_SECTION_LIBC_POSIX
+C link biblioteka i POSIX sloj
+; C link library and POSIX layer
+;
+MSG_SECTION_DOCUMENTATION
+Dokumentacija
+; Documentation
+;
+MSG_SECTION_TRANSLATION
+Prevod
+; Translation
+;
+MSG_SECTION_ARTISTRY
+Dizajn i grafika
+; Artistry
+;
+MSG_SECTION_WEBSITE
+Veb sajt
+; Website
+;
+MSG_SECTION_DATATYPES
+Datatypes
+; Datatypes
+;
+MSG_SECTION_TESTING
+Testiranje
+; Testing
+;
+MSG_BUILD_CPU
+Ova verzija AROS-a je izgraÐena za %s procesore.
+; This version of AROS has been built for %s processors.
+;

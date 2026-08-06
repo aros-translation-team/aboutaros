@@ -1,0 +1,148 @@
+## version $VER: About.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_TITLE
+Az AROS névjegye
+; About AROS
+;
+MSG_PERSONAL_BUILD
+Személyes %s build
+; Personal %s Build
+;
+MSG_NIGHTLY_BUILD
+Éjszakai %s build
+; Nightly %s Build
+;
+MSG_SNAPSHOT
+Pillanatkép
+; Snapshot
+;
+MSG_MILESTONE
+Mérföldkõ
+; Milestone
+;
+MSG_RELEASE
+Kiadás
+; Release
+;
+MSG_COPYRIGHT
+Copyright \xa9 1995-2026, The AROS Development Team. Minden jog fenntartva.
+; Copyright \xa9 1995-2026, The AROS Development Team. All rights reserved.
+;
+MSG_LICENSE_1
+Kiadva az
+; Released under the terms of the
+;
+MSG_LICENSE_2
+AROS Public License
+; AROS Public License
+;
+MSG_LICENSE_3
+, 1.1-es verzió feltételei szerint.
+; , version 1.1.
+;
+MSG_MORE_INFORMATION
+További információért látogasson el a http://www.aros.org oldalra.
+; Please visit http://www.aros.org for more information.
+;
+MSG_PAGE_AUTHORS
+Készítõk
+; Authors
+;
+MSG_PAGE_SPONSORS
+Szponzorok
+; Sponsors
+;
+MSG_PAGE_ACKNOWLEDGEMENTS
+Köszönetnyilvánítás
+; Acknowledgements
+;
+MSG_SECTION_COORDINATION
+Koordináció
+; Coordination
+;
+MSG_SECTION_EVANGELISM
+Népszerûsítés
+; Evangelism
+;
+MSG_SECTION_HIDD
+HIDD alrendszer
+; HIDD subsystem
+;
+MSG_SECTION_INTUITION
+Intuition
+; Intuition
+;
+MSG_SECTION_GRAPHICS
+Grafika
+; Graphics
+;
+MSG_SECTION_SHELL_COMMANDS
+Shell parancsok
+; Shell Commands
+;
+MSG_SECTION_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_SECTION_TOOLS
+Eszközök
+; Tools
+;
+MSG_SECTION_PREFERENCES
+Beállítások
+; Preferences
+;
+MSG_SECTION_BGUI
+BGUI
+; BGUI
+;
+MSG_SECTION_ZUNE
+Zune
+; Zune
+;
+MSG_SECTION_KERNEL
+Kernel
+; Kernel
+;
+MSG_SECTION_DOS
+DOS
+; DOS
+;
+MSG_SECTION_NETWORK
+Hálózati komponensek
+; Networking Components
+;
+MSG_SECTION_LIBC_POSIX
+C link library és POSIX réteg
+; C link library and POSIX layer
+;
+MSG_SECTION_DOCUMENTATION
+Dokumentáció
+; Documentation
+;
+MSG_SECTION_TRANSLATION
+Fordítás
+; Translation
+;
+MSG_SECTION_ARTISTRY
+Grafikai munkák
+; Artistry
+;
+MSG_SECTION_WEBSITE
+Weboldal
+; Website
+;
+MSG_SECTION_DATATYPES
+Datatypes
+; Datatypes
+;
+MSG_SECTION_TESTING
+Tesztelés
+; Testing
+;
+MSG_BUILD_CPU
+Az AROS ezen verziója %s processzorokhoz készült.
+; This version of AROS has been built for %s processors.
+;
