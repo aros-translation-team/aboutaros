@@ -1,4 +1,4 @@
-## version $VER: About.catalog 1.0 (12.08.2003)
+## version $VER: About.catalog 2.0 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -102,4 +102,16 @@ Taide
 ;
 MSG_SECTION_WEBSITE
 Web-sivusto
+;
+MSG_SECTION_DATATYPES
+Datatypes
+; Datatypes
+;
+MSG_SECTION_TESTING
+Testaus
+; Testing
+;
+MSG_BUILD_CPU
+T‰m‰ AROS-versio on k‰‰nnetty %s-suorittimille.
+; This version of AROS has been built for %s processors.
 ;

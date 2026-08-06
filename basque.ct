@@ -1,10 +1,30 @@
-## version $VER: AboutAROS.catalog 2.0 (16.02.2021)
+## version $VER: AboutAROS.catalog 2.0 (06.08.2026)
 ## codeset 0
 ## language euskara
 ;
 MSG_TITLE
 AROSi buruz
 ; About AROS
+;
+MSG_PERSONAL_BUILD
+%s eraikuntza pertsonala
+; Personal %s Build
+;
+MSG_NIGHTLY_BUILD
+%s gaueko eraikuntza
+; Nightly %s Build
+;
+MSG_SNAPSHOT
+Izoztu
+; Snapshot
+;
+MSG_MILESTONE
+Mugarria
+; Milestone
+;
+MSG_RELEASE
+Argitalpena
+; Release
 ;
 ;MSG_PERSONAL_BUILD
 ;** Personal %s Build
@@ -140,4 +160,8 @@ Datatypeak
 MSG_SECTION_TESTING
 Testing
 ; Testing
+;
+MSG_BUILD_CPU
+AROSen bertsio hau %s prozesadoreetarako eraiki da.
+; This version of AROS has been built for %s processors.
 ;

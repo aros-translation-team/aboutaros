@@ -1,4 +1,4 @@
-## version $VER: About.catalog 2.0 (08.01.2020)
+## version $VER: About.catalog 2.0 (06.08.2026)
 ## language español
 ## codeset 0
 ;
@@ -142,4 +142,8 @@ Datatypes
 MSG_SECTION_TESTING
 Testing
 ; Testing
+;
+MSG_BUILD_CPU
+Esta versión de AROS ha sido compilada para procesadores %s.
+; This version of AROS has been built for %s processors.
 ;

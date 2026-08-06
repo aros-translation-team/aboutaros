@@ -1,10 +1,30 @@
-## version $VER: About.catalog 1.0 (25.07.2003)
+## version $VER: About.catalog 2.0 (06.08.2026)
 ## language svenska
 ## codeset 0
 ;
 MSG_TITLE
 Om AROS
 ; About AROS
+;
+MSG_PERSONAL_BUILD
+Personligt %s-bygge
+; Personal %s Build
+;
+MSG_NIGHTLY_BUILD
+Nattligt %s-bygge
+; Nightly %s Build
+;
+MSG_SNAPSHOT
+Ögonblicksbild
+; Snapshot
+;
+MSG_MILESTONE
+Milstolpe
+; Milestone
+;
+MSG_RELEASE
+Utgåva
+; Release
 ;
 ;MSG_PERSONAL_BUILD
 ;** Personal %s Build
@@ -58,6 +78,90 @@ MSG_PAGE_ACKNOWLEDGEMENTS
 Erkännanden
 ; Acknowledgements
 ;
+MSG_SECTION_COORDINATION
+Samordning
+; Coordination
+;
+MSG_SECTION_EVANGELISM
+Evangelism
+; Evangelism
+;
+MSG_SECTION_HIDD
+HIDD-delsystem
+; HIDD subsystem
+;
+MSG_SECTION_INTUITION
+Intuition
+; Intuition
+;
+MSG_SECTION_GRAPHICS
+Grafik
+; Graphics
+;
+MSG_SECTION_SHELL_COMMANDS
+Shell-kommandon
+; Shell Commands
+;
+MSG_SECTION_WORKBENCH
+Arbetsbänk
+; Workbench
+;
 MSG_SECTION_TOOLS
 Verktyg
 ; Tools
+MSG_SECTION_PREFERENCES
+Inställningar
+; Preferences
+;
+MSG_SECTION_BGUI
+BGUI
+; BGUI
+;
+MSG_SECTION_ZUNE
+Zune
+; Zune
+;
+MSG_SECTION_KERNEL
+Kärna
+; Kernel
+;
+MSG_SECTION_DOS
+DOS
+; DOS
+;
+MSG_SECTION_NETWORK
+Nätverkskomponenter
+; Networking Components
+;
+MSG_SECTION_LIBC_POSIX
+C-länkbibliotek och POSIX-lager
+; C link library and POSIX layer
+;
+MSG_SECTION_DOCUMENTATION
+Dokumentation
+; Documentation
+;
+MSG_SECTION_TRANSLATION
+Översättning
+; Translation
+;
+MSG_SECTION_ARTISTRY
+Konstnärligt arbete
+; Artistry
+;
+MSG_SECTION_WEBSITE
+Webbplats
+; Website
+;
+MSG_SECTION_DATATYPES
+Datatyper
+; Datatypes
+;
+MSG_SECTION_TESTING
+Testning
+; Testing
+;
+MSG_BUILD_CPU
+Denna version av AROS har byggts för %s-processorer.
+; This version of AROS has been built for %s processors.
+;

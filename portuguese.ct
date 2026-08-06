@@ -1,4 +1,4 @@
-## version $VER: About.catalog 1.0 (18.08.2008)
+## version $VER: About.catalog 2.0 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -19,6 +19,14 @@ MSG_NIGHTLY_BUILD
 MSG_SNAPSHOT
 ** Snapshot
 ; Snapshot
+;
+MSG_MILESTONE
+Milestone
+; Milestone
+;
+MSG_RELEASE
+Release
+; Release
 ;
 ;MSG_MILESTONE
 ;** Milestone
@@ -60,6 +68,90 @@ MSG_PAGE_ACKNOWLEDGEMENTS
 Reconhecimentos
 ; Acknowledgements
 ;
+MSG_SECTION_COORDINATION
+Coordenação
+; Coordination
+;
+MSG_SECTION_EVANGELISM
+Evangelização
+; Evangelism
+;
+MSG_SECTION_HIDD
+Subsistema HIDD
+; HIDD subsystem
+;
+MSG_SECTION_INTUITION
+Intuition
+; Intuition
+;
+MSG_SECTION_GRAPHICS
+Gráficos
+; Graphics
+;
+MSG_SECTION_SHELL_COMMANDS
+Comandos da Shell
+; Shell Commands
+;
+MSG_SECTION_WORKBENCH
+Workbench
+; Workbench
+;
 MSG_SECTION_TOOLS
 Ferramentas
 ; Tools
+MSG_SECTION_PREFERENCES
+Preferências
+; Preferences
+;
+MSG_SECTION_BGUI
+BGUI
+; BGUI
+;
+MSG_SECTION_ZUNE
+Zune
+; Zune
+;
+MSG_SECTION_KERNEL
+Kernel
+; Kernel
+;
+MSG_SECTION_DOS
+DOS
+; DOS
+;
+MSG_SECTION_NETWORK
+Componentes de Rede
+; Networking Components
+;
+MSG_SECTION_LIBC_POSIX
+Biblioteca C e camada POSIX
+; C link library and POSIX layer
+;
+MSG_SECTION_DOCUMENTATION
+Documentação
+; Documentation
+;
+MSG_SECTION_TRANSLATION
+Tradução
+; Translation
+;
+MSG_SECTION_ARTISTRY
+Arte
+; Artistry
+;
+MSG_SECTION_WEBSITE
+Sítio Web
+; Website
+;
+MSG_SECTION_DATATYPES
+Datatypes
+; Datatypes
+;
+MSG_SECTION_TESTING
+Testes
+; Testing
+;
+MSG_BUILD_CPU
+Esta versão do AROS foi compilada para processadores %s.
+; This version of AROS has been built for %s processors.
+;

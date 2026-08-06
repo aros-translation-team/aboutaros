@@ -1,4 +1,4 @@
-## version $VER: About.catalog 1.0 (26.04.2007)
+## version $VER: About.catalog 2.0 (06.08.2026)
 ## language nederlands
 ## codeset 0
 ;
@@ -136,7 +136,15 @@ Website
 ; Website
 ;
 MSG_SECTION_DATATYPES
-
+Datatypes
 ; Datatypes
+;
+MSG_SECTION_TESTING
+Testen
+; Testing
+;
+MSG_BUILD_CPU
+Deze versie van AROS is gebouwd voor %s processoren.
+; This version of AROS has been built for %s processors.
 ;
 ; ***NEW***

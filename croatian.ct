@@ -1,4 +1,4 @@
-## version $VER: About.catalog 1.6 (03.01.2010)
+## version $VER: About.catalog 2.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -8,11 +8,11 @@ O AROS projektu
 ; About AROS
 ;
 MSG_PERSONAL_BUILD
-
+Osobni %s Build
 ; Osobni %s Build
 ;
 MSG_NIGHTLY_BUILD
-
+Noæni %s Build
 ; Noæni %s Build
 ;
 MSG_SNAPSHOT
@@ -28,7 +28,7 @@ Izdanje
 ; Release
 ;
 MSG_COPYRIGHT
-Autorsko Pravo Œ 1995-2026, The AROS Development Team. Sva prava zadr¾ana.
+Autorsko Pravo (C) 1995-2026, The AROS Development Team. Sva prava zadr¾ana.
 ; Copyright © 1995-2026, The AROS Development Team. All rights reserved.
 ;
 MSG_LICENSE_1
@@ -138,3 +138,11 @@ Web Stranica
 MSG_SECTION_DATATYPES
 Datatypes
 ; Datatypes
+MSG_SECTION_TESTING
+Testiranje
+; Testing
+;
+MSG_BUILD_CPU
+Ova verzija AROS-a izgraðena je za %s procesore.
+; This version of AROS has been built for %s processors.
+;
